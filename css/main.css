@@ -4,7 +4,7 @@ h1 {
   display: none;
 }
 body {
-  background-image: url("img/stars_background.jpg");
+  background-image: url("../img/stars_background.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   font-family: 'Raleway', sans-serif;
