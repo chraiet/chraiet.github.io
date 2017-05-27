@@ -1,0 +1,11 @@
+h1 {
+  text-align: center;
+  color: #ffffff;
+  display: none;
+}
+body {
+  background-image: url("img/stars_background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Raleway', sans-serif;
+}
