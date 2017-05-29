@@ -12,4 +12,6 @@ body {
 #content {
   margin: 100px auto 100px auto;
   background-color: black;
+  width: 40%;
+  height: 60%;
 }
